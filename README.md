@@ -1,4 +1,4 @@
-<img width="1000px" src="https://imgs.search.brave.com/6L8Ss8POdbMGQ0_Lh2UM47qwUG4vQCTEiWB3mJkjoBc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9xdW90/ZWZhbmN5LmNvbS9t/ZWRpYS93YWxscGFw/ZXIvODAweDQ1MC8y/MzI4MTQ4LUJsYWlz/ZS1QYXNjYWwtUXVv/dGUtSXQtaXMtbXVj/aC1iZXR0ZXItdG8t/a25vdy1zb21ldGhp/bmctYWJvdXQuanBn">
+<img width="1000px" src="https://i.sstatic.net/VU4Jl.jpg">
 
 <h1 align="center">Hi 👋, I'm Mohit Bhandari</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
